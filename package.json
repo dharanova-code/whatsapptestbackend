@@ -1,0 +1,12 @@
+{
+  "name": "whatsapptestbackend",
+  "version": "1.0.0",
+  "description": "Temporary Meta WhatsApp webhook test backend (console-dump only). Not the production backend.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
